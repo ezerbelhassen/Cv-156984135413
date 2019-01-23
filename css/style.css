@@ -1,0 +1,41 @@
+
+[hidden] {
+  display: none;
+}
+#name{
+    font-family: "century gothic";
+    font-size: 20px;
+    color: white;
+    text-shadow: 2px 3px black;
+}
+#avatar {
+    align-content: center;
+    border-radius: 50%;
+    width: 30%;
+}
+.container-fluid{
+    box-sizing: content-box;
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    font-family: "century gothic";
+    padding: 50px;
+    height: 800px;
+    width: 500px;
+    transition: all .2s ease-in-out;
+
+}
+ul li a{
+    color: white;
+}
+.content:hover{
+    transform: scale(1.1);
+    
+}
+#audio-example {
+display: block;
+margin-bottom: 50px;
+
+}
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
